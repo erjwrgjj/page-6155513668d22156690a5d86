@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "58ee6ad6b607b0adcf2f583c",
+  "owner": "erjwrgjj",
+  "repo": "page-6155513668d22156690a5d86",
+  "title": "Xlinkworld",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6155513668d22156690a5d86",
+      "a": "Xlinkworld",
+      "b": "稳定全球clash加速器",
+      "entity": "Xlinkworld",
+      "brand": "Xlinkworld",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cc85f66ae464cfb6b0f43213d96eb7f48a929b8eaca3f53cbf11891f9169afd2",
+      "content": {
+        "primary_entity": "Xlinkworld",
+        "keyword1": "Xlinkworld",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择 Clash 客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "按设备规模选好套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更省心",
+          "AI_DESCRIPTION": "，面向需要稳定跨境连接的用户，提供多档订阅套餐与 Clash 客户端配置指引。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，含 IPLC 专线；团队版每月 1000GB、支持 20 台设备。按年付更划算，适合长期使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三方面对比套餐，找到合适的订阅。",
+          "AI_FEATURES_TITLE": "套餐与设备搭配",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版与团队版提供 IPLC 专线及高带宽节点，适合游戏与高清流媒体场景。",
+          "AI_FEATURE_TEXT_3": "按年付可降低月均成本，旗舰版年付 ¥350，团队版年付 ¥850，适合长期订阅。",
+          "AI_FEATURE_TITLE_1": "流量与设备数",
+          "AI_FEATURE_TITLE_2": "线路类型差异",
+          "AI_FEATURE_TITLE_3": "订阅周期选择",
+          "AI_GUIDE_INTRO": "先选套餐，再确认设备数量，最后按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "Xlinkworld 提供多档跨境加速订阅，覆盖基础浏览到团队协作场景。基础版适合个人轻量使用，旗舰版增加 IPLC 专线与更多设备支持，团队版满足多设备高流量需求。选择套餐后按客户端文档导入订阅即可。",
+          "AI_HERO_SUBTITLE": "多档套餐，适配不同设备规模",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "按年付降低月均使用成本",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在流量、设备数和线路上递进，按需选择。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据日常流量和设备数量，从基础版、旗舰版或团队版中选出合适的一档。",
+          "AI_STEP_TEXT_2": "确认需要同时在线的设备台数，并核对套餐支持的设备数量上限。",
+          "AI_STEP_TEXT_3": "在对应设备上安装 Clash 客户端，依照客户端文档导入订阅并完成配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Xlinkworld 订阅方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Xlinkworld 三档套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版 ¥15/月，100GB 流量、3 台设备；旗舰版 ¥35/月，300GB 流量、5 台设备并含 IPLC 专线游戏加速；团队版 ¥85/月，1000GB 流量、20 台设备。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台。超出限制时可关闭其他设备或升级套餐，团队版更适合多人共享场景。",
+          "AI_FAQ_QUESTION_3": "年付比月付划算多少？",
+          "AI_FAQ_ANSWER_3": "年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，相当于按十个月价格使用十二个月。按月付费更适合短周期使用。",
+          "AI_FAQ_QUESTION_4": "订阅如何在 Clash 或 Shadowrocket 中导入？",
+          "AI_FAQ_ANSWER_4": "在客户端配置页找到添加订阅的入口，粘贴订阅地址并保存，拉取节点后选择线路连接。不同客户端操作路径相近，以客户端文档为准。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线针对游戏加速优化，适合对延迟敏感的对战与实时应用。日常网页与视频，基础版普通线路节点池已可满足。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "idozuoq.cn",
+    "host": "idozuoq.cn"
+  },
+  "file_hashes": {
+    "index.html": "cbfc3ffcad9fc3eed160fab69f64c342267c9e4314d00203997ffd20ac18b50c",
+    "sitemap.xml": "f590a89a44a64c81c79403d281f4b0c0bd42c9d209938cf0e0e884db4c23ba0b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9782f33404919398b2b366c5c348c3058aee57f87ed030b187c3e98f384e38cd",
+    "robots.txt": "c9224865669158e4a196d1ed557fdc5f71fcbfca8f344dc7e690b054873af061",
+    "baa5202eee4344854e447c63a1c5765e.txt": "4c3331e5c05936df550032578b57c27a4e31f8cf35575610039f60ca4b8730a5"
+  },
+  "revision": "33adc1e5d501958caed85dc949dc5df3491570257b1b14fb2ae6b39033a65b03"
+}
